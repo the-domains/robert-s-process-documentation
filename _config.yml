@@ -1,0 +1,28 @@
+name: "Robert's Process Documentation"
+favicon: null
+layout_spectrum: 0.26203203410841525
+typography_spectrum: 0.18528750515542924
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#4a4a4a'
+    - '#707070'
+    - '#1e1e1e'
+    - '#a1a1a1'
+  brandStrength: 0.125
+  lightness: 0.7504276770632714
+  saturation: 0.7887982756365091
+  rhythmicContrast: 0.7294636017177254
+purpose: []
